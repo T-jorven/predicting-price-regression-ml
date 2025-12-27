@@ -3,6 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Python virtual environments
+env/
+venv/
+.venv/
+bulldozer-price-prediction-project/env/
+
+# macOS
+.DS_Store
+
+
 # C extensions
 *.so
 
