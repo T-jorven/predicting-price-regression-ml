@@ -8,6 +8,7 @@ env/
 venv/
 .venv/
 bulldozer-price-prediction-project/env/
+data
 
 # macOS
 .DS_Store
